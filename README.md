@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am AVIRAL AKASH!
+  
+3rd year, engineering📚📚 student from BIT Mesra, Ranchi.🏫🏫<p>
+Intrested in🔻🔻🔻 <p>
+Machine Learning <img src="https://tenor.com/view/robot-joypixels-look-around-android-hardworking-gif-17554204.gif" width="30px"><img src="https://tenor.com/view/robot-joypixels-look-around-android-hardworking-gif-17554204.gif" width="30px"><img src="https://tenor.com/view/robot-joypixels-look-around-android-hardworking-gif-17554204.gif" width="30px"><p>
+DATA SCIENCE <img src="https://tenor.com/view/flow-computer-gif-21941444.gif" width="30px"><img src="https://tenor.com/view/flow-computer-gif-21941444.gif" width="30px"><img src="https://tenor.com/view/flow-computer-gif-21941444.gif" width="30px"><p>
+Competitive Coading <img src="https://tenor.com/view/cyberpunk-hacker-gif-5648977.gif" width="30px"><img src="https://tenor.com/view/cyberpunk-hacker-gif-5648977.gif" width="30px"><img src="https://tenor.com/view/cyberpunk-hacker-gif-5648977.gif" width="30px"><p>
 
-<!--
-**AVIRALAKASH/AVIRALAKASH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🧰 Toolbox🔻🔻🔻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://worldvectorlogo.com/logo/jquery.svg" alt="JavaScript Logo" width="50" height="50"> 
+
+---
+
+
+---
+
+
+
+
+
+
+
