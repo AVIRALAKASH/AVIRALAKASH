@@ -8,10 +8,10 @@ Competitive Coading <img src="https://tenor.com/view/cyberpunk-hacker-gif-564897
 
 ---
 
-🧰 Toolbox🔻🔻🔻
+### 🧰 Toolbox🔻🔻🔻
 
 
-<img src="https://worldvectorlogo.com/logo/jquery.svg" alt="JavaScript Logo" width="50" height="50"> 
+<img src="python-3.svg" alt="JavaScript Logo" width="200" height="200"><img src="numpy-1.svg" alt="JavaScript Logo" width="200" height="200"><img src="pandas-original-wordmark.svg" alt="JavaScript Logo" width="200" height="200"><img src="matlab-original.svg" alt="JavaScript Logo" width="200" height="200"><img src="tensorflow-original-wordmark.svg" alt="JavaScript Logo" width="200" height="200"><img src="jupyter-original-wordmark.svg" alt="JavaScript Logo" width="200" height="200">
 
 ---
 
