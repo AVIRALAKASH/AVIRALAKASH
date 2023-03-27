@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am AVIRAL AKASH! <a href="https://www.linkedin.com/in/aviral-akash-54a929213/"><img src="linkedin-icon-2.svg" height="30px" width="30px" align="right"></a> <a href="https://www.instagram.com/_avi.kash_/"><img src="instagram-2016-6.svg" height="30px" width="30px" align="right"></a>  <a href="https://www.facebook.com/aviral.akash"><img src="facebook-3.svg" height="30px" width="30px" align="right"></a>
   
-### 3rd year, engineering📚📚 student from BIT Mesra, Ranchi.🏫🏫<p>
+### 4th year, engineering📚📚 student from BIT Mesra, Ranchi.🏫🏫<p>
 
 
 ## Intrested in🔻🔻🔻 <p>
